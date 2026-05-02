@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "provider": "copilot",
+  "kind": "copilot-sdk",
+  "updatedAt": "2026-05-03T00:00:00Z",
+  "source": "GitHub Copilot model picker",
+  "models": [
+    {
+      "id": "gpt-5.3-codex",
+      "label": "GPT-5.3-Codex",
+      "description": "GitHub Copilot model option."
+    },
+    {
+      "id": "gpt-5.2-codex",
+      "label": "GPT-5.2-Codex",
+      "description": "GitHub Copilot model option."
+    },
+    {
+      "id": "gpt-5.2",
+      "label": "GPT-5.2",
+      "description": "GitHub Copilot model option."
+    },
+    {
+      "id": "gpt-5.4-mini",
+      "label": "GPT-5.4 mini",
+      "description": "GitHub Copilot model option."
+    },
+    {
+      "id": "gpt-5-mini",
+      "label": "GPT-5 mini",
+      "description": "GitHub Copilot model option."
+    },
+    {
+      "id": "gpt-4.1",
+      "label": "GPT-4.1",
+      "description": "GitHub Copilot model option."
+    },
+    {
+      "id": "claude-sonnet-4.5",
+      "label": "Claude Sonnet 4.5",
+      "description": "GitHub Copilot model option."
+    },
+    {
+      "id": "claude-haiku-4.5",
+      "label": "Claude Haiku 4.5",
+      "description": "GitHub Copilot model option."
+    },
+    {
+      "id": "claude-opus-4.5",
+      "label": "Claude Opus 4.5",
+      "description": "GitHub Copilot model option."
+    },
+    {
+      "id": "claude-sonnet-4",
+      "label": "Claude Sonnet 4",
+      "description": "GitHub Copilot model option."
+    }
+  ]
+}

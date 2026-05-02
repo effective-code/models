@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-05-03T00:00:00Z",
+  "providers": [
+    {
+      "id": "codex",
+      "label": "Codex",
+      "kind": "codex-cli",
+      "path": "providers/codex.json"
+    },
+    {
+      "id": "claude",
+      "label": "Claude Code",
+      "kind": "claude-cli",
+      "path": "providers/claude.json"
+    },
+    {
+      "id": "gemini",
+      "label": "Gemini CLI",
+      "kind": "gemini-cli",
+      "path": "providers/gemini.json"
+    },
+    {
+      "id": "copilot",
+      "label": "GitHub Copilot",
+      "kind": "copilot-sdk",
+      "path": "providers/copilot.json"
+    }
+  ]
+}

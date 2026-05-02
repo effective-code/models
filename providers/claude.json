@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "provider": "claude",
+  "kind": "claude-cli",
+  "updatedAt": "2026-05-03T00:00:00Z",
+  "source": "claude code model picker",
+  "models": [
+    {
+      "id": "claude-sonnet-4.6",
+      "label": "Claude Sonnet 4.6",
+      "description": "Best for everyday tasks."
+    },
+    {
+      "id": "claude-opus-4.7",
+      "label": "Claude Opus 4.7",
+      "description": "Most capable for complex work."
+    },
+    {
+      "id": "claude-haiku-4.5",
+      "label": "Claude Haiku 4.5",
+      "description": "Fastest for quick answers."
+    },
+    {
+      "id": "claude-opus-4.7-1m-context",
+      "label": "Claude Opus 4.7 (1M context)",
+      "description": "Most capable for complex work."
+    }
+  ]
+}

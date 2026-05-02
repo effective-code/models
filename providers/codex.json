@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "provider": "codex",
+  "kind": "codex-cli",
+  "updatedAt": "2026-05-03T00:00:00Z",
+  "source": "codex model picker",
+  "models": [
+    {
+      "id": "gpt-5.5",
+      "label": "GPT-5.5",
+      "description": "Frontier model for complex coding, research, and real-world work."
+    },
+    {
+      "id": "gpt-5.4",
+      "label": "GPT-5.4",
+      "description": "Strong model for everyday coding."
+    },
+    {
+      "id": "gpt-5.4-mini",
+      "label": "GPT-5.4 Mini",
+      "description": "Small, fast, and cost-efficient model for simpler coding tasks."
+    },
+    {
+      "id": "gpt-5.3-codex",
+      "label": "GPT-5.3 Codex",
+      "description": "Coding-optimized model."
+    },
+    {
+      "id": "gpt-5.3-codex-spark",
+      "label": "GPT-5.3 Codex Spark",
+      "description": "Ultra-fast coding model."
+    },
+    {
+      "id": "gpt-5.2",
+      "label": "GPT-5.2",
+      "description": "Optimized for professional work and long-running agents."
+    }
+  ]
+}
