@@ -2,28 +2,58 @@
   "schemaVersion": 1,
   "provider": "claude",
   "kind": "claude-cli",
-  "updatedAt": "2026-05-03T00:00:00Z",
-  "source": "claude code model picker",
+  "updatedAt": "2026-05-03T10:00:00Z",
+  "source": "claude code model configuration",
   "models": [
     {
-      "id": "claude-sonnet-4.6",
+      "id": "claude-sonnet-4-6",
       "label": "Claude Sonnet 4.6",
       "description": "Best for everyday tasks."
     },
     {
-      "id": "claude-opus-4.7",
-      "label": "Claude Opus 4.7",
+      "id": "claude-opus-4-6",
+      "label": "Claude Opus 4.6",
       "description": "Most capable for complex work."
     },
     {
-      "id": "claude-haiku-4.5",
+      "id": "claude-haiku-4-5-20251001",
       "label": "Claude Haiku 4.5",
       "description": "Fastest for quick answers."
     },
     {
-      "id": "claude-opus-4.7-1m-context",
-      "label": "Claude Opus 4.7 (1M context)",
-      "description": "Most capable for complex work."
+      "id": "claude-opus-4-5-20251101",
+      "label": "Claude Opus 4.5",
+      "description": "Previous Opus generation."
+    },
+    {
+      "id": "claude-sonnet-4-5-20250929",
+      "label": "Claude Sonnet 4.5",
+      "description": "Previous Sonnet generation."
+    },
+    {
+      "id": "sonnet",
+      "label": "Latest Sonnet",
+      "description": "Claude Code alias for the latest Sonnet model."
+    },
+    {
+      "id": "opus",
+      "label": "Latest Opus",
+      "description": "Claude Code alias for the latest Opus model."
+    },
+    {
+      "id": "haiku",
+      "label": "Latest Haiku",
+      "description": "Claude Code alias for the latest Haiku model."
+    },
+    {
+      "id": "sonnet[1m]",
+      "label": "Latest Sonnet (1M context)",
+      "description": "Claude Code alias for Sonnet with a 1M context window."
+    },
+    {
+      "id": "opusplan",
+      "label": "Opus Plan",
+      "description": "Claude Code alias for Opus in plan mode and Sonnet for execution."
     }
   ]
 }
