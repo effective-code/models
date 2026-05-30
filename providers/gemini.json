@@ -2,9 +2,14 @@
   "schemaVersion": 1,
   "provider": "gemini",
   "kind": "gemini-cli",
-  "updatedAt": "2026-05-03T00:00:00Z",
+  "updatedAt": "2026-05-30T00:00:00Z",
   "source": "gemini-cli model picker",
   "models": [
+    {
+      "id": "gemini-3.5-flash",
+      "label": "Gemini 3.5 Flash",
+      "description": "Most intelligent model for agentic and coding tasks."
+    },
     {
       "id": "gemini-3.1-pro-preview",
       "label": "Gemini 3.1 Pro Preview",

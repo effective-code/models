@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "provider": "claude",
   "kind": "claude-cli",
-  "updatedAt": "2026-05-03T10:10:00Z",
+  "updatedAt": "2026-05-30T00:00:00Z",
   "source": "claude code model configuration",
   "models": [
     {
@@ -11,9 +11,14 @@
       "description": "Best for everyday tasks."
     },
     {
+      "id": "claude-opus-4-8",
+      "label": "Claude Opus 4.8",
+      "description": "Most capable for complex work."
+    },
+    {
       "id": "claude-opus-4-7",
       "label": "Claude Opus 4.7",
-      "description": "Most capable for complex work."
+      "description": "Previous Opus generation."
     },
     {
       "id": "claude-haiku-4-5-20251001",
